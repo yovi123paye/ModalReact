@@ -46,7 +46,7 @@ export const BasicModal = ({
         aria-labelledby="alert-dialog-title"
         aria-describedby="alert-dialog-description">
     <DialogTitle>
-FORMULARIO DE INSCRIPIÓN
+FORMULARIO DE INSCRIPCIÓN
     </DialogTitle>
     <DialogContent>
     <TextField id="nombre" label="Nombre" variant="outlined" />
